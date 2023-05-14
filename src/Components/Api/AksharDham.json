@@ -1,0 +1,67 @@
+{
+    "Restaurants":{
+        "Famous_Restaurants":[
+            {
+                "No":"0",
+                "Name":"Akshardham food court  ",
+                "Dining":"4.5",
+                "Delivery":"3.6",
+                "Restaurant_Image":"https://im.whatshot.in/content/2017/Jun/1498216462-og.jpg",
+                "Place":"North Indian",
+                "Food Type":"Chinese",
+                "City":"Agra"
+            },
+            {
+                "No":"1",
+                "Name":"Tasty food corner",
+                "Dining":"4.5",
+                "Delivery":"3.6",
+                "Restaurant_Image":"https://content.jdmagicbox.com/comp/delhi/t2/011pxx11.xx11.181125135239.m6t2/catalogue/tasty-food-corner-patparganj-delhi-tandoori-restaurants-xmwxc9cayd.jpg",
+                "Place":"North Indian",
+                "Food Type":"Chinese",
+                "City":"Agra"
+            },
+            {
+                "No":"2",
+                "Name":"Beacon Hotel",
+                "Dining":"4.5",
+                "Delivery":"3.6",
+                "Restaurant_Image":"https://cdn1.goibibo.com/voy_ing/t_g/61ecacb438ba11e8b7fa0a8db4ebf044.jpg",
+                "Place":"North Indian",
+                "Food Type":"Chinese",
+                "City":"Agra"
+            },
+            {
+                "No":"3",
+                "Name":"The Metropolitan hotel",
+                "Dining":"4.5",
+                "Delivery":"3.6",
+                "Restaurant_Image":"https://metropolitan-hotel-new-delhi.booked.net/data/Photos/380x250/12776/1277655/1277655265/The-Metropolitan-Hotel-Spa-New-Delhi-Exterior.JPEG",
+                "Place":"North Indian",
+                "Food Type":"Chinese",
+                "City":"Agra"
+            },
+            {
+                "No":"4",
+                "Name":"Premavati food court",
+                "Dining":"4.5",
+                "Delivery":"3.6",
+                "Restaurant_Image":"https://lh3.googleusercontent.com/pwcrkWj0hVzrrimZQxFS2ndb6r_cqJ15QuJ6rW6SBm1ONsbHtUqAnOxbCqms78Tnq4sc_gLoIILO5cYxBx0KhNpbbMFj=w512-rw",
+                "Place":"North Indian",
+                "Food Type":"Chinese",
+                "City":"Agra"
+            },
+            {
+                "No":"5",
+                "Name":"Mangal sweets restaurants",
+                "Dining":"4.5",
+                "Delivery":"3.6",
+                "Restaurant_Image":"https://d24l7ypac8dw56.cloudfront.net/MenuImages/Mangal3-83910-49251.jpg",
+                "Place":"North Indian",
+                "Food Type":"Chinese",
+                "City":"Agra"
+            }
+            
+        ]
+    }
+}
