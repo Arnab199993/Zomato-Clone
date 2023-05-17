@@ -1,27 +1,27 @@
 import App from './App.jsx'
+import Login from './Components/Auth/Login.jsx'
+import Register from './Components/Auth/Register.jsx'
 import Delivery from './Components/Pages/Delivery.jsx'
 import DiningOutList from './Components/Pages/DiningOutList.jsx'
-import NightLife from './Components/Pages/NightLife.jsx'
+import NightLifeList from './Components/Pages/NightLifeList.jsx'
 import AksharDham from './Components/Places/AksharDham.jsx'
 import Bestrest from './Components/Places/Bestrest.jsx'
 import Mustres from './Components/Places/Mustres.jsx'
+import Pubs from './Components/Places/Pubs.jsx'
 import Taj from './Components/Places/Taj.jsx'
 const Routes = [
     {
         path: "/",
         element: <App />
     },
-    {
-        path: "delivery",
-        element: <Delivery />
-    },
+
     {
         path: "diningoutlist",
         element: <DiningOutList />
     },
     {
-        path: "nightlife",
-        element: <NightLife />
+        path: "nightlifelist",
+        element: <NightLifeList />
     },
     {
         path: "taj",
@@ -38,6 +38,18 @@ const Routes = [
     {
         path: "bestindianrestaurant",
         element: <Bestrest />
+    },
+    {
+        path: "pubs",
+        element: <Pubs />
+    },
+    {
+        path: "register",
+        element: <Register />
+    },
+    {
+        path: "login",
+        element: <Login />
     }
 
 
