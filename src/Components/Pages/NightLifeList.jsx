@@ -14,7 +14,7 @@ const NightLifeList = () => {
         setplaying(!playing)
     }
     return (
-        <div className='max-w-[1240px] h-[900px] border border-black mx-auto my-4'>
+        <div className='max-w-[1240px] h-[900px]  mx-auto my-4'>
             <NightLife />
             <div className='h-[20rem] w-[16.25rem]  ml-6 mt-4 '>
                 <div onClick={play} className='cursor-pointer relative' onMouseEnter={toggleplay} onMouseLeave={toggleplay} >

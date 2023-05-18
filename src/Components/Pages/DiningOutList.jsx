@@ -5,7 +5,7 @@ import LowerNavbar from '../LowerNavbar'
 
 const DiningOutList = () => {
     return (
-        <div className='w-[1240px] h-[700px] border border-black mx-auto'>
+        <div className='w-[1240px] h-[700px]  mx-auto'>
             <Navbar />
             <LowerNavbar />
             <div className='ml-6'>
